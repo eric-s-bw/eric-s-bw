@@ -92,7 +92,7 @@ I am a data science graduate student with a strong foundation in software engine
 
 ---
 
-## 🏆 Leadership Experience:
+## 🏆 Leadership Experience
 
 * Class Monitor
 * Youth League Secretary
